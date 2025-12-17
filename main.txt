@@ -1,0 +1,34 @@
+# Importamos FastAPI
+from fastapi import FastAPI
+
+# Creamos una instancia de FastAPI
+app = FastAPI()
+
+# Nombre de nuestro proyecto
+app.title = "Mi primer backend"
+
+# Creamos con el decorador una ruta básica usando el método 'get' que vaya al home de la aplicación
+@app.get("/", tags=["Home"])
+def home():
+    """
+    Endpoint meramente ilustrativo.
+    No recibe ningún argumento.
+    """
+    return "Hola mundo!" # Esta función se va a ejecutar al acceder a la ruta root
+
+@app.get("/home", tags=["Home"])
+def suma(a: int, b: int) -> int:
+    """
+    Endpoint para sumar dos números.
+    
+    * **Args**:
+        - a (int): Primer número a sumar
+        - b (int): Segundo número a sumar
+    * **Returns**:
+        * int: Suma de los dos números
+    """
+    return a + b
+
+
+
+
