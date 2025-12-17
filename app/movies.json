@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "overview": "Un ladrón que roba secretos corporativos a través del uso de la tecnología de compartir sueños, recibe la tarea inversa de plantar una idea en la mente de un director ejecutivo.",
+        "year": "2010",
+        "rating": 8.8,
+        "category": "Ciencia Ficción"
+    },
+    {
+        "id": 2,
+        "title": "The Godfather",
+        "overview": "El patriarca envejecido de una dinastía del crimen organizado transfiere el control de su imperio clandestino a su hijo reacio.",
+        "year": "1972",
+        "rating": 9.2,
+        "category": "Crimen"
+    },
+    {
+        "id": 3,
+        "title": "The Dark Knight",
+        "overview": "Cuando la amenaza conocida como el Joker causa estragos y caos en la gente de Gotham, Batman debe aceptar una de las mayores pruebas psicológicas y físicas.",
+        "year": "2008",
+        "rating": 9.0,
+        "category": "Acción"
+    },
+    {
+        "id": 4,
+        "title": "Pulp Fiction",
+        "overview": "Las vidas de dos mafiosos, un boxeador, la esposa de un gángster y un par de bandidos se entrelazan en cuatro historias de violencia y redención.",
+        "year": "1994",
+        "rating": 8.9,
+        "category": "Crimen"
+    },
+    {
+        "id": 5,
+        "title": "Forrest Gump",
+        "overview": "Las presidencias de Kennedy y Johnson, la guerra de Vietnam y otros eventos históricos se desarrollan a través de la perspectiva de un hombre de Alabama con un coeficiente intelectual bajo.",
+        "year": "1994",
+        "rating": 8.8,
+        "category": "Drama"
+    },
+    {
+        "id": 6,
+        "title": "The Matrix",
+        "overview": "Un hacker aprende de rebeldes misteriosos sobre la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+        "year": "1999",
+        "rating": 8.7,
+        "category": "Ciencia Ficción"
+    },
+    {
+        "id": 7,
+        "title": "The Lord of the Rings: The Return of the King",
+        "overview": "Gandalf y Aragorn lideran el mundo de los hombres contra el ejército de Sauron para distraer su atención de Frodo y Sam, quienes se acercan al Monte del Destino.",
+        "year": "2003",
+        "rating": 9.0,
+        "category": "Fantasía"
+    },
+    {
+        "id": 8,
+        "title": "Coco",
+        "overview": "El aspirante a músico Miguel, enfrentado a la prohibición ancestral de la música en su familia, entra a la Tierra de los Muertos para encontrar a su tatarabuelo, un cantante legendario.",
+        "year": "2017",
+        "rating": 8.4,
+        "category": "Animación"
+    },
+    {
+        "id": 9,
+        "title": "Interstellar",
+        "overview": "Un equipo de exploradores viaja a través de un agujero de gusano en el espacio en un intento de asegurar la supervivencia de la humanidad.",
+        "year": "2014",
+        "rating": 8.6,
+        "category": "Aventura"
+    },
+    {
+        "id": 10,
+        "title": "Parasite",
+        "overview": "La codicia y la discriminación de clase amenazan la relación simbiótica recién formada entre la adinerada familia Park y el clan Kim, indigente pero astuto.",
+        "year": "2019",
+        "rating": 8.5,
+        "category": "Thriller"
+    }
+]
